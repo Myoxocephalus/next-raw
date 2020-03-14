@@ -1,0 +1,21 @@
+{
+    "name": "next-raw",
+    "description": "Import files as string in [Next.js]",
+    "keywords": [
+        "next",
+        "txt",
+        "md",
+        "nextjs",
+        "plugin"
+      ],
+    "version": "1.0.0",
+    "main": "index.js",
+    "bugs": {
+        "url": "https://github.com/Myoxocephalus/next-raw/issues"
+      },
+    "homepage": "https://github.com/Myoxocephalus/next-raw",
+    "license": "MIT",
+    "dependencies": {
+        "raw-loader": "^4.0.0"
+    }
+}
